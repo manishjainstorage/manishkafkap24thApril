@@ -6,7 +6,7 @@ from PIL import Image
 import io
 
 # Set page configuration
-st.set_page_config(page_title="HuggingFace Text App", layout="wide")
+st.set_page_config(page_title="HuggingFace Text App for 24th april - updatedapp", layout="wide")
 st.title("🤗 Text to Text & Text to Image Generator")
 
 # Sidebar for model selection and caching
